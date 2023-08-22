@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Storytelling Performance
-==========================================================
+
 
 In this chapter, we will discuss how to measure the impact of AI on storytelling performance. By assessing the effectiveness of AI for narrative creation, organizations can identify areas for improvement and refinement, and continuously adapt and improve their AI approach for storytelling.
 

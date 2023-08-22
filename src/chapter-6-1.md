@@ -1,5 +1,4 @@
-Overview of AI Applications for Engaging Storytelling
-================================================================================================================
+
 
 In this chapter, we will provide an overview of the different applications of AI in engaging storytelling. From character development to audience engagement, AI can be used in various ways to enhance the impact and engagement of storytelling.
 

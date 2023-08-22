@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-====================================================================================================
+
 
 In this chapter, we will discuss how to prepare for AI implementation in storytelling by evaluating data availability and quality. By understanding the availability and quality of their data, organizations can determine the feasibility and potential impact of an AI-powered approach to storytelling.
 

@@ -1,5 +1,4 @@
-Types of AI Used for Narrative Creation
-=========================================================================================
+
 
 In this chapter, we will explore the different types of AI used for narrative creation. By understanding the capabilities and limitations of each type of AI, organizations can choose the right tools and technologies for their storytelling needs.
 

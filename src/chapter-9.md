@@ -1,5 +1,4 @@
-Chapter 8: AI Ethics and Governance for Storytelling
-====================================================
+
 
 In this chapter, we will explore the ethical considerations, governance frameworks, and legal and regulatory considerations that organizations must take into account when implementing AI in storytelling.
 
