@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how to measure the impact of AI on storytelling performance. By assessing the effectiveness of AI for narrative creation, organizations can optimize their use of AI and achieve better results.
 
 Defining Key Performance Indicators (KPIs)

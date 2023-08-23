@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ethical considerations, governance frameworks, and legal and regulatory considerations that organizations must take into account when implementing AI in storytelling.
 
 Ethical Considerations for AI Implementation in Storytelling

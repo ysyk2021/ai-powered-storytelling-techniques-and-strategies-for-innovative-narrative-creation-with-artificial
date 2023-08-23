@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce AI-powered storytelling and explore how it is transforming the storytelling landscape. We will cover the definition of AI-powered storytelling, the types of AI used for narrative creation, and the benefits of AI for creating innovative narratives.
 
 Definition of AI-Powered Storytelling

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ethical and governance considerations that organizations must take into account when using AI for storytelling. We will discuss the importance of responsible AI use and provide guidance on developing governance frameworks to ensure ethical and responsible AI use.
 
 The Importance of Responsible AI Use

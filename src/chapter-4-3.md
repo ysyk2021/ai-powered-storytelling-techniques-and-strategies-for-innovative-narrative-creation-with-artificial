@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how to choose the right AI tools and technologies for storytelling. We will provide case studies of successful AI implementations in narrative creation to illustrate how organizations can leverage AI effectively to create compelling stories and narratives.
 
 Natural Language Processing (NLP)
