@@ -8,3 +8,7 @@ This book, "AI-Powered Storytelling: Techniques and Strategies for Innovative Na
 Whether you are a writer, marketer, game developer, or simply interested in the future of storytelling, this book will provide valuable insights into the exciting possibilities offered by AI-powered storytelling. With the right approach, AI can be a powerful tool for creating more engaging, immersive, and memorable narratives that capture the hearts and minds of audiences around the world.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
