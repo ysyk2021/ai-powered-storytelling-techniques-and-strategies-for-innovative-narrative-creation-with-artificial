@@ -1,5 +1,4 @@
-Chapter: Assessing the Effectiveness of AI for Narrative Creation
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
